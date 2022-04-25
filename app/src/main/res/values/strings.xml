@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">N01419541_Q1_CalculatorApp</string>
+    <string name="history">History</string>
+    <string name="memory_add">M+</string>
+    <string name="memory_subtract">M-</string>
+    <string name="memory_register">MR</string>
+    <string name="memory_clear">MC</string>
+    <string name="clear">C</string>
+    <string name="exponent">eˣ</string>
+    <string name="pi">𝜋</string>
+    <string name="divide">÷</string>
+    <string name="multiply">×</string>
+    <string name="subtraction">-</string>
+    <string name="addition">+</string>
+    <string name="percentage">%</string>
+    <string name="point">.</string>
+    <string name="equalsTo">=</string>
+    <string name="digit_one">1</string>
+    <string name="digit_two">2</string>
+    <string name="digit_three">3</string>
+    <string name="digit_four">4</string>
+    <string name="digit_five">5</string>
+    <string name="digit_six">6</string>
+    <string name="digit_seven">7</string>
+    <string name="digit_eight">8</string>
+    <string name="digit_nine">9</string>
+    <string name="digit_zero">0</string>
+</resources>
